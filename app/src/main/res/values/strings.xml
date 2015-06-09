@@ -1,0 +1,5 @@
+<resources>
+    <string name="actionSettings">Settings</string>
+    <string name="myNanodegreeApps">My Nanodegree Apps!</string>
+    <string name="appName">My App Portfolio</string>
+</resources>
